@@ -40,7 +40,7 @@
   <version>1.2-SNAPSHOT</version>
 
   <name>Job Type Column</name>
-  <url>http://wiki.hudson-ci.org/display/HUDSON/Job+Type+Column+Plugin</url>
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/Job+Type+Column+Plugin</url>
 
   <licenses>
     <license>
