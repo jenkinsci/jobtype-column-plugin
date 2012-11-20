@@ -47,6 +47,7 @@ public class JobTypeColumn extends ListViewColumn {
         labelMap.put("MatrixProject", Messages._MatrixProject_ShortName());
         labelMap.put("ExternalJob", Messages._ExternalJob_ShortName());
         labelMap.put("JPRTJob", Messages._JPRTJob_ShortName());
+        labelMap.put("MultiJobProject", Messages._MultiJob_ShortName());
     }
 
     public String getShortName(Job job) {
