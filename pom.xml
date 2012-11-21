@@ -73,8 +73,8 @@
   </developers>
 
   <scm>
-    <connection>scm:git:ssh://github.com/jenkinsci/jobtype-column-plugin.git</connection>
-    <developerConnection>scm:git:ssh@github.com:jenkinsci/jobtype-column-plugin.git</developerConnection>
+    <connection>scm:git:git://github.com/jenkinsci/jobtype-column-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/jobtype-column-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/jobtype-column-plugin</url>
   </scm>
 
